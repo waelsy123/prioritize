@@ -20,7 +20,7 @@ This application written in Typescript to demonstrate a solution to the problem 
 
 We have a set of transactions, each has a cost as latency and value presented in USD amount for processing this transaction. We want to include subset of transactions which yield the maximum return.
 
-The problem discuss a well-known dynamic programming problem in computer science called Knapsack. The algorithm complexity is `O(N * Timeout)`.
+The problem discuss a standard dynamic programming problem in computer science called Knapsack. The algorithm complexity is `O(N * Timeout)`.
 
 # Usage
 
