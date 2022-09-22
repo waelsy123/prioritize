@@ -7,11 +7,11 @@
   60ms: 4675.71,
   50ms: 4139.43
 }
-// which means that by `1000ms` we were able to process `35471.81 USD`
-// for `90ms` we processed `6972.29 USD`
-// and so on..
-
 ```
+
+which means that by `1000ms` we were able to process `35471.81 USD`
+for `90ms` we processed `6972.29 USD` and so on..
+
 
 # Explaination
 
